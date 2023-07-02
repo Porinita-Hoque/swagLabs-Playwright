@@ -1,0 +1,16 @@
+{
+    "url":{ 
+        "login":"https://www.saucedemo.com",
+        "inventory":"inventory.html",
+        "cart":"cart.html",
+        "checkoutOne":"checkout-step-one.html",
+        "checkoutTwo":"checkout-step-two.html"
+    },
+    "username":["standard_user", "locked_out_user", "problem_user", "performance_glitch_user"],
+    "password": "secret_sauce",
+    "checkoutInfo": {
+        "firstname":"P.",
+        "lastname":"Hoque",
+        "postalCode":"1216"
+    }
+}
